@@ -1,0 +1,74 @@
+{
+    "NinjaPuff": {
+        "PUBLIC": {
+            "APPLE": 5,
+            "ORANGE": 30,
+            "GRAPE": 10,
+            "BANANA": 3,
+            "STEVE_CARD": {
+                "0": {
+                    "name": "GUY Steve",
+                    "description": "Things and stuff"
+                }
+            },
+            "TOKENS": 100
+        },
+        "PRIVATE": {
+            "ACORN": 5
+        }
+    },
+    "tppolis": {
+        "PUBLIC": {
+            "APPLE": 100,
+            "ORANGE": 5,
+            "GRAPE": 3,
+            "BANANA": 0,
+            "STEVE_CARD": {
+                "0": {
+                    "name": "Cursed Steve",
+                    "description": "Description"
+                }
+            },
+            "TOKENS": 100
+        },
+        "PRIVATE": {
+            "ACORN": 1
+        }
+    },
+    "procrastinadian": {
+        "PUBLIC": {
+            "APPLE": 90,
+            "ORANGE": 5000,
+            "GRAPE": 3,
+            "BANANA": 15,
+            "STEVE_CARD": {
+                "0": {
+                    "name": "Canadian Steve",
+                    "description": "Description"
+                }
+            },
+            "TOKENS": 7
+        },
+        "PRIVATE": {
+            "ACORN": 1
+        }
+    },
+	"DancingSpirit": {
+        "PUBLIC": {
+            "APPLE": 90,
+            "ORANGE": 5000,
+            "GRAPE": 3,
+            "BANANA": 15,
+            "STEVE_CARD": {
+                "0": {
+                    "name": "Canadian Steve",
+                    "description": "Description"
+                }
+            },
+            "TOKENS": 10
+        },
+        "PRIVATE": {
+            "ACORN": 1
+        }
+    }
+}

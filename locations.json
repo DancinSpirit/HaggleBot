@@ -1,0 +1,28 @@
+{
+    "Nebraska": {
+        "ACTIONS": {
+            "Nebraskinate": true
+        },
+        "NPCS": {
+            "OLD_MAN_NEBRASKA": {
+                "SAYINGS": {
+                    "0": "YOU IN NEBRASKA, SON"
+                }
+            }
+        },
+        "FLAVOR_TEXT": "Its like the wild west, only wackier"
+    },
+    "KOHS": {
+        "ACTIONS": {
+            "Music": true
+        },
+        "NPCS": {
+            "TODD_CLEARWATER": {
+                "SAYINGS": {
+                    "0": "*Eagle Screeching Noise*"
+                }
+            }
+        },
+        "FLAVOR_TEXT": "Home of Todd Clearwater"
+    }
+}

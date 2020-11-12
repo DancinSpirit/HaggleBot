@@ -1,0 +1,17 @@
+{
+	"NinjaPuff": {
+		"PUBLIC": {
+			"CurrentLocation": "Nebraska",
+			"AwaitingResolution": false,
+			"SpecialEffects": {
+			
+			},
+			"CurrentStatus": "Vibing"
+		},
+		"PRIVATE": {
+			"SpecialEffects": {
+			
+			}
+		}
+	}
+}
